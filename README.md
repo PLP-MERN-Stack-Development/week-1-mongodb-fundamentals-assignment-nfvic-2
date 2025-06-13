@@ -45,3 +45,15 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+# Week 1: MongoDB Assignment – Bookstore DB
+
+## 📌 Setup Instructions
+
+1. Install Node.js (v18 or higher)
+2. Install MongoDB locally OR create a MongoDB Atlas cluster
+3. Clone this repo
+4. Run the script to populate your database:
+   ```bash
+   node insert_books.js
+![MongoDB Screenshot](./mongodb_screenshot.png)
